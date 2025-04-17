@@ -15,13 +15,13 @@ Welcome to the Duckweed Experiment Dashboard. Use the tools below to upload, for
 
 ::: {.grid}
 ::: {.g-col-6}
-### 📤 [Data Preparation Tool](../prep_app/)
+### 📤 [Data Preparation Tool](https://01963b35-875f-8799-8fb1-900f2286d231.share.connect.posit.cloud/)
 
 Prepare your CSV data for analysis. This app will validate, reformat, and return a clean dataset ready for downstream analysis.
 :::
 
 ::: {.g-col-6}
-### 📊 [Yield & Growth Analysis](../analysis_app/)
+### 📊 [Yield & Growth Analysis](https://01963aff-252d-aa1b-ab66-1e3e81f79b87.share.connect.posit.cloud/)
 
 Explore growth differences, final yields, and per capita rates across treatments using interactive plots and summaries.
 :::
@@ -111,7 +111,7 @@ plant-directory.ifas.ufl.edu
  
 ::: {.panel}
 <details>
-<summary>Wolffialla</summary>
+<summary>Wolffiella</summary>
 
 </details>
 :::
