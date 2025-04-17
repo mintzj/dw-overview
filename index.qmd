@@ -1,0 +1,121 @@
+
+---
+title: "Duckweed Dashboard"
+format:
+  html:
+    toc: true
+    theme: cosmo
+    page-layout: full
+    css: styles.css
+---
+
+# 🧪 Duckweed Tools Overview
+
+Welcome to the Duckweed Experiment Dashboard. Use the tools below to upload, format, and analyze your experiment data.
+
+::: {.grid}
+::: {.g-col-6}
+### 📤 [Data Preparation Tool](../prep_app/)
+
+Prepare your CSV data for analysis. This app will validate, reformat, and return a clean dataset ready for downstream analysis.
+:::
+
+::: {.g-col-6}
+### 📊 [Yield & Growth Analysis](../analysis_app/)
+
+Explore growth differences, final yields, and per capita rates across treatments using interactive plots and summaries.
+:::
+:::
+
+## 🧭 Instructions
+
+Steps to obtaining duckweed data:
+
+1. Setup steps
+2. Growth and observations
+3. Takedown and analysis
+4. Submit data to us
+
+
+## 🦆 Setup and Takedown Demonstration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U0f4n8zRg14?si=VSo5ZNHx4LAdNvid" title="Duckweed Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 🌍 Distribution of duckweed species in Florida
+
+In addition to the _Salvina minima_ and _Lemna minor_, several other varieties of duckweed exist across Florida.  You may wish to consider comparing interactions among combinations of interaction of local duckweed as well. 
+
+
+::: {.panel}
+<details>
+  <summary>Landoltia</summary>
+  Distribution:   [Landoltia on iNaturalist](https://www.inaturalist.org/taxa/72211-Landoltia)   (Dotted Duckweed)
+  
+    [https://plant-directory.ifas.ufl.edu/plant-directory/landoltia-punctata](https://plant-directory.ifas.ufl.edu/plant-directory/landoltia-punctata)
+
+    Species: Landoltia punctata
+
+    Origin: Introduced from Australia and Southeast Asia
+
+    Size: Fronds 1–3 mm wide, elliptical shape
+
+    Roots: 2–5 per frond
+
+    Distinctive Features: Lacks red dot on upper frond (unlike Spirodela),  underside has sunken glands, giving a dotted texture
+
+    Habitat: Common in slow-moving waters, ponds, and swamps throughout Florida
+
+    Status: Non-native; likely introduced via aquarium trade 
+
+</details>
+:::
+
+::: {.panel}
+<details>
+<summary>Lemna</summary>
+  - Distribution: [Lemna](https://www.inaturalist.org/taxa/54519-Lemna)
+  
+  - Species in Florida: Lemna minor, Lemna valdiviana, and Lemna perpusilla
+
+  - Size: Fronds up to 6 mm long
+
+  - Roots: Single root per frond
+
+  - Distinctive Features: Flat, oval-shaped fronds. Forms dense mats on water surfaces
+
+  - Habitat: Still or sluggish waters like ponds and ditches
+
+  - Status: Native
+plant-directory.ifas.ufl.edu
+
+  
+</details>
+:::
+
+
+::: {.panel}
+<details>
+<summary>Spirodella</summary>
+
+</details>
+:::
+
+
+::: {.panel}
+<details>
+<summary>Wolffia</summary>
+
+</details>
+:::
+ 
+ 
+::: {.panel}
+<details>
+<summary>Wolffialla</summary>
+
+</details>
+:::
+
+    
+
+_This map shows real-time observation data from around the world._ 
