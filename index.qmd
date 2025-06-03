@@ -1,4 +1,3 @@
-
 ---
 title: "Duckweed Dashboard"
 format:
@@ -15,17 +14,23 @@ Welcome to the Duckweed Experiment Dashboard. Use the tools below to upload, for
 
 ::: {.grid}
 ::: {.g-col-6}
-### 📤 [Data Preparation Tool](https://01963b35-875f-8799-8fb1-900f2286d231.share.connect.posit.cloud/)
+### 📤 [Data Preparation Tool](http://duckweed.phys.ufl.edu/prep/)
 
 Prepare your CSV data for analysis. This app will validate, reformat, and return a clean dataset ready for downstream analysis.
 :::
 
 ::: {.g-col-6}
-### 📊 [Yield & Growth Analysis](https://01963aff-252d-aa1b-ab66-1e3e81f79b87.share.connect.posit.cloud/)
+### 📊 [Yield & Growth Analysis](http://duckweed.phys.ufl.edu/analysis/)
 
 Explore growth differences, final yields, and per capita rates across treatments using interactive plots and summaries.
 :::
 :::
+
+
+#### Download: [Data Template](http://duckweed.phys.ufl.edu/files/DuckweedDatasheet_basic.csv)
+
+Template for use with the data preparation tool.  Put data into this format.  Could include an example here.
+
 
 ## 🧭 Instructions
 
